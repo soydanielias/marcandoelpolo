@@ -14,9 +14,6 @@ body {
     background: #54c5d1;
 }
 
-section {
-    min-height: calc(100vh - 400px);
-}
 p{
     font-family: 'Open Sans';
     text-align: center;
@@ -80,6 +77,7 @@ p{
 
 .linea{
     border: 1px solid black;
+    margin-top: 70px;
     width: 85%;
 }
 
