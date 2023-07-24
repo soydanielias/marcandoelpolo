@@ -83,5 +83,8 @@ p{
 
 footer {
     background: #54c5d1;
-    height: 50px;
+}
+
+.microformatos {
+    display:none;
 }
