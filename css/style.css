@@ -10,7 +10,9 @@ header{
 
 }
 
-.centrado{
+h1{
+    font-family: 'Open Sans';
+    font-size: 16px;
     text-align: center;
 }
 
