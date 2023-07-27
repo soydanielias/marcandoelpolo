@@ -3,6 +3,17 @@ header{
     background: #54c5d1;
 }
 
+.socialicons {
+    margin: 0 auto;
+    text-align: center;
+    padding: 0px;
+
+}
+
+.centrado{
+    text-align: center;
+}
+
 .imageheader{
 width: 200px;
 padding-top: 20px;
@@ -29,10 +40,6 @@ p{
 
 .col-3 {
     display: inline;
-}
-
-.socialnav {
-    text-align: center;
 }
 
 .btn {
