@@ -86,12 +86,14 @@ p{
 
 .linea{
     border: 1px solid black;
-    margin-top: 70px;
     width: 85%;
 }
 
 footer {
     background: #54c5d1;
+    position: fixed;
+    bottom: 0;
+    min-width: 99%;
 }
 
 .microformatos {
