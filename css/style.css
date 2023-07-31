@@ -44,6 +44,10 @@ p{
     display: inline;
 }
 
+.descripcion{
+    max-width: 80%;
+}
+
 .btn {
     background: white;
     color: black;
